@@ -656,11 +656,8 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
-    background-position: center;
-    background-repeat: no-repeat;
+.section-heading {
+    font-family: 'Crimson Text', serif;
 }
 
 section#contact .section-heading {
@@ -719,6 +716,22 @@ section#contact:-ms-input-placeholder {
 
 section#contact .text-danger {
     color: #e74c3c;
+}
+
+
+
+section#contact {
+    font-family: 'Crimson Text', serif;
+    font-size: 2em;
+    color: #FFF;
+}
+
+section#contact a {
+    font-family: 'Crimson Text', serif;
+    font-style: italic;
+    text-decoration: none;
+    color: #FFF;
+    letter-spacing: 6px;
 }
 
 footer {
