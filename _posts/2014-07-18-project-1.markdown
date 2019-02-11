@@ -3,29 +3,43 @@ title: Omnes Sancti Dei
 subtitle: 2014
 layout: default
 modal-id: 1
-date: 2014-07-18
 img: omnes_okladka.png
 thumbnail: omnes_okladka_thumb.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: W roku 2014 działania w ramach projektu „Zapomniane skarby kapeli rorantystów” przyjęły bardzo podobny obrót – w pierwszej połowie roku członkowie Zespołu Męskiego Gregorianum sporządzali transkrypcje niewydanych dotąd utworów ze zbiorów roranckich i przygotowywali materiał muzyczny. Zwieńczeniem tych działań było sześć sesji nagraniowych w czasie których zarejestrowany został materiał do drugiej płyty. W październiku ukazała się płyta Omnes Sancti Dei, na której znalazły się utwory związane z kultem Świętych kościoła katolickiego. Są wśród nich utwory anonimowe, ale nie tylko – na płycie pojawił się motet Walentego Gawary, a także dzieła kompozytorów pochodzenia włoskiego – wspomnianych już Asprilia Pacellego, Franciszka Liliusa oraz Annibale Orgasa i Bernardina Terzago – członków kapeli rorantystów. Wydaniu płyty towarzyszyły także koncery w Zawadzkiem, Radomiu, Lublinie i Warszawie.
-
+project-date: June 2014
+permalink: /omnes-sancti-dei/
+description: Men's Vocal Ensemble Gregorianum was founded in 2005 by a group of musicians who had been part of a children's choir known under the same name, with education received in music schools and brass orchestras. All of them share their love of early music. Since the beginning the group has been conducted by Berenika Jozajtis, a graduate of choir conducting at the Frederic Chopin Academy of Music in Warsaw, in the class of Professor Henryk Wojnarowski. Gregorianum specializes in early music, both religious and secular. The group gained recognition during early-music festivals in Gorzow Wielkopolski or Swieradow Zdroj, in Poland. It has been a laureate of the following competitions
+tracks:
+    - title: Magnificat Tertii Toni
+      author: Jacotin
+    - title: Gaudete iusti
+      author: Anonim
+    - title: Rorate Ceali
+      author: Asprilio Pacelli
+    - title: Missa a 4 voci - Kyrie
+      author: Franciszek Lilius
+    - title: Missa a 4 voci - Gloria
+      author: Franciszek Lilius  
+    - title: Vir inclite Stanislae
+      author: Annibale Orgas
+    - title: Missa a 4 voci - Credo
+      author: Franciszek Lilius
+    - title: O beatum pontificem
+      author: Bernardino Terzago
+    - title: Missa a 4 voci - Sanctus
+      author: Franciszek Lilius
+    - title: Missa a 4 voci - Benedictus
+      author: Franciszek Lilius
+    - title: Oramus, Domine, conditor inclite
+      author: Anonim
+    - title: Sanguine proprio
+      author: Anonim
+    - title: Missa a 4 voci - Benedictus
+      author: Franciszek Lilius
+    - title: Per merita sancti Adalberti
+      author: Walentyn Gawara
+    - title: Omnes Sancti Dei
+      author: Anonim
+    - title: Magnificat Octavi Toni
+      author: Anonim
 ---
-**Magnificat Tertii Toni**	_Jacotin_  
-**Gaudete iusti**	_Anonim_  
-**Rorate Caeli**	_Asprilio Pacelli_  
-**Missa a 4 voci - Kyrie**	_Franciszek Lilius_  
-**Missa a 4 voci - Gloria**	_Franciszek Lilius_  
-**Vir inclite Stanislae**	_Annibale Orgas_  
-**Missa a 4 voci - Credo**	_Franciszek Lilius_  
-**O beatum pontificem**	_Bernardino Terzago_  
-**Missa a 4 voici - Sanctus**	_Franciszek Lilius_  
-**Missa a 4 voci - Benedictus**	_Franciszek Lilius_  
-**Oramus, Domine, conditor inclite**	_Anonim_  
-**Sanguine proprio**	_Anonim_  
-**Missa a 4 voci** - Agnus Dei	_Franciszek Lilius_  
-**Per merita sancti Adalberti**	_Walentyn Gawara_  
-**Omnes Sancti Dei**	_Anonim_  
-**Magnificat Octavi Toni**	_Anonim_  
