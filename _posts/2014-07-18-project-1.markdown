@@ -1,15 +1,31 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Omnes Sancti Dei
+subtitle: 2014
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: omnes_okladka.png
+thumbnail: omnes_okladka_thumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: W roku 2014 działania w ramach projektu „Zapomniane skarby kapeli rorantystów” przyjęły bardzo podobny obrót – w pierwszej połowie roku członkowie Zespołu Męskiego Gregorianum sporządzali transkrypcje niewydanych dotąd utworów ze zbiorów roranckich i przygotowywali materiał muzyczny. Zwieńczeniem tych działań było sześć sesji nagraniowych w czasie których zarejestrowany został materiał do drugiej płyty. W październiku ukazała się płyta Omnes Sancti Dei, na której znalazły się utwory związane z kultem Świętych kościoła katolickiego. Są wśród nich utwory anonimowe, ale nie tylko – na płycie pojawił się motet Walentego Gawary, a także dzieła kompozytorów pochodzenia włoskiego – wspomnianych już Asprilia Pacellego, Franciszka Liliusa oraz Annibale Orgasa i Bernardina Terzago – członków kapeli rorantystów. Wydaniu płyty towarzyszyły także koncery w Zawadzkiem, Radomiu, Lublinie i Warszawie.
 
 ---
+**Magnificat Tertii Toni**	_Jacotin_  
+**Gaudete iusti**	_Anonim_  
+**Rorate Caeli**	_Asprilio Pacelli_  
+**Missa a 4 voci - Kyrie**	_Franciszek Lilius_  
+**Missa a 4 voci - Gloria**	_Franciszek Lilius_  
+**Vir inclite Stanislae**	_Annibale Orgas_  
+**Missa a 4 voci - Credo**	_Franciszek Lilius_  
+**O beatum pontificem**	_Bernardino Terzago_  
+**Missa a 4 voici - Sanctus**	_Franciszek Lilius_  
+**Missa a 4 voci - Benedictus**	_Franciszek Lilius_  
+**Oramus, Domine, conditor inclite**	_Anonim_  
+**Sanguine proprio**	_Anonim_  
+**Missa a 4 voci** - Agnus Dei	_Franciszek Lilius_  
+**Per merita sancti Adalberti**	_Walentyn Gawara_  
+**Omnes Sancti Dei**	_Anonim_  
+**Magnificat Octavi Toni**	_Anonim_  
