@@ -358,6 +358,43 @@ section#media h2.section-subheading {
     }
 }
 
+#services .flexbox-container {
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+
+	-ms-flex-align: center;
+	-webkit-align-items: center;
+	-webkit-box-align: center;
+
+	align-items: center;
+}
+
+#services .margin-left {
+    margin-left: 0%;
+}
+
+@media screen and (min-width: 768px){
+    #services .margin-left {
+        margin-left: 12%;
+    }
+}
+
+#services {
+    color: #FFF;
+}
+
+#services h2,
+#services h3,
+#services h4 {
+    font-family: 'Crimson Text', serif;
+}
+
+#services .row {
+    vertical-align: middle;
+    margin-bottom: 30px;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
