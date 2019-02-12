@@ -1,5 +1,5 @@
 ---
-title: Vasa's Mass
+title: The Vasas' Mass
 concert-date: 28 OCT 2018
 layout: default
 description: Marcin Mielczewski - Missa Super O Gloriosa Domina

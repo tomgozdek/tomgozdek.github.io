@@ -468,8 +468,25 @@ section#media h2.section-subheading {
     font-style: italic;
 }
 
-#recordings * {
-    z-index: 2;
+#recordings .portfolio-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+    flex-wrap: wrap;
+  }
+
+@media screen and (min-width:767px){
+
+    #recordings .row > portfolio-item {
+        flex-grow: 1;
+        width: 33%;
+    }
+}
+
+#recordings .row > portfolio-item {
+       display: flex;
+       flex-direction: column;
 }
 
 @media(min-width:767px) {
