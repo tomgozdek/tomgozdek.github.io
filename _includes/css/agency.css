@@ -988,4 +988,15 @@ body {
       flex: 100%;
       max-width: 100%;
     }
+	  
+	header {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url('{{ site.baseurl }}/img/intro_small_eng.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 50%;
+}
   }
